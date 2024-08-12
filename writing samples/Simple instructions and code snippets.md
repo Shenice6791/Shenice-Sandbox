@@ -1,4 +1,4 @@
-# Simple instruction sample with code snippets
+# Instructions with code snippets
 
 ## 1. **Create a Basic HTML Page**
 

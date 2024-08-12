@@ -19,7 +19,9 @@ To create a basic HTML page, use the following structure:
 </html>
 
 ## 2. Adding CSS Styles
+
 You can add CSS to style your HTML page. Here’s how to include an internal stylesheet:
+
 <head>
     <style>
         body {

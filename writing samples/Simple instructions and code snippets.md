@@ -38,7 +38,7 @@ To change the UI information, replace the content inside the title, h1, and p ma
 </html>
 ```
 
-# 3. **Keep learning**
+## 3. **Keep learning**
 
 - Up your game with [HTML training](https://www.youtube.com/watch?v=kUMe1FH4CHE).
 ----------------------------------------------------------------------------------------------

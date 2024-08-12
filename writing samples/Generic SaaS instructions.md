@@ -22,7 +22,7 @@ Welcome to [SaaS Software Name]. This guide will walk you through the essentials
 
 ## Navigate the Dashboard
 
-Upon logging in, you'll be greeted by the dashboard. This central hub provides an overview of your key activities and quick access to the main sections:
+When you log in, you'll be greeted by the dashboard. This central hub provides an overview of your key activities and quick access to the main sections:
 
 - **Home**: Your starting point with an overview of recent activities and notifications.
 - **Projects**: Manage your projects, view tasks, and track progress.

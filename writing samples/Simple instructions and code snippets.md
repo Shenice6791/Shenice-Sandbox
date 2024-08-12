@@ -43,4 +43,4 @@ To change the UI information, replace the content inside the title, h1, and p ma
 - Up your game with [HTML training](https://www.youtube.com/watch?v=kUMe1FH4CHE).
 ----------------------------------------------------------------------------------------------
 
-**Not find what you're looking for?** Reach out to [insert slack channel](insert slack channel link.
+**Not find what you're looking for?** Reach out to [insert slack channel](insert slack channel link).
